@@ -1,2 +1,3 @@
 # kyros-weapon-pack-v2
-30 Custom weapons
+FiveM Weapon Pack with 35+ Custom Weapons & W support team :)
+
